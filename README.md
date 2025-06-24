@@ -32,7 +32,7 @@ YaTube — это сайт, на котором пользователи мог�
 2. Установите зависимости из файла `requirements.txt`:
 
    ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
 
 ## 👥 Авторы
 - RUS_Next
